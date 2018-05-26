@@ -1,13 +1,11 @@
 {
   "name": "selva-syntax",
   "theme": "syntax",
-<<<<<<< HEAD
   "version": "0.0.2",
   "description": "A short description of your syntax theme",
 =======
   "version": "0.0.1",
   "description": "awesome!",
->>>>>>> 2e3b1906f926c8c69069526dda068bc2fbb96e5e
   "keywords": [
     "syntax",
     "theme"
