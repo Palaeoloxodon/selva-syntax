@@ -1,11 +1,12 @@
 {
   "name": "selva-syntax",
   "theme": "syntax",
-  "version": "0.0.2",
-  "description": "awesome!",
+  "version": "0.0.0",
+  "description": "A theme for Atom.",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "selva"
   ],
   "repository": "https://github.com/Palaeoloxodon/selva-syntax",
   "license": "MIT",
