@@ -1,7 +1,7 @@
 {
   "name": "selva-syntax",
   "theme": "syntax",
-  "version": "0.1.4",
+  "version": "0.1.1",
   "description": "A theme for Atom.",
   "keywords": [
     "syntax",
